@@ -1,0 +1,1 @@
+All the files are displayed in the main branch. In this challenge, I explored setting up the establishments collection in the database UK foods, updating the database, followed by performing an exploratory analysis.
